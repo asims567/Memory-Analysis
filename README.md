@@ -23,3 +23,10 @@ This dataset and question were provided by the University of Ottawa Statistics C
 
 The figure above displays the distribution of memory scores across three emotional valence groups. The Negative group showed the highest scores (median ≈ 85), followed by the Positive group (median ≈ 73), and the Neutral group (median ≈ 65). A one-way ANOVA indicated that these differences were statistically significant (p = 0.0016).
 
+
+# Mean of Memory Scores Across Groups
+
+<img width="316" height="242" alt="Mean of Memory" src="https://github.com/user-attachments/assets/cba1ad5f-19b6-423d-acd3-084a329e0168" />
+
+The figure above illustrates the mean memory scores for each emotional valence group. The Negative group had the highest mean score, followed by the Positive group, with the Neutral group scoring the lowest on average. Error bars indicate the degree of variability within each group.
+
