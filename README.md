@@ -28,5 +28,5 @@ The figure above displays the distribution of memory scores across three emotion
 
 <img width="316" height="242" alt="Mean of Memory" src="https://github.com/user-attachments/assets/cba1ad5f-19b6-423d-acd3-084a329e0168" />
 
-The figure above illustrates the mean memory scores for each emotional valence group. The Negative group had the highest mean score, followed by the Positive group, with the Neutral group scoring the lowest on average. Error bars indicate the degree of variability within each group.
+The figure above illustrates the mean memory scores for each emotional valence group. The Negative group had the highest mean score (≈ 84), followed by the Positive group  (≈ 75), with the Neutral group scoring the lowest on average (≈ 65). Error bars represent the standard error (SE), indicating the precision of each group mean.
 
