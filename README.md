@@ -16,3 +16,10 @@ A social psychologist wanted to determine whether there are differences in memor
 We will analyze this data set using ANOVA to determine whether there are differences in average memory scores across negative, positive, and neutral events.
 
 This dataset and question were provided by the University of Ottawa Statistics Course; **HSS 2381: Quantitative Methods for Continuous Variables**
+
+# ANOVA Table
+
+<img width="316" height="242" alt="Memory Anova" src="https://github.com/user-attachments/assets/4bfb2292-35ba-4930-8b35-098ef3c679d8" />
+
+The figure above displays the distribution of memory scores across three emotional valence groups. The Negative group showed the highest scores (median ≈ 85), followed by the Positive group (median ≈ 73), and the Neutral group (median ≈ 65). A one-way ANOVA indicated that these differences were statistically significant (p = 0.0016).
+
