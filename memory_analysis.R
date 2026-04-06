@@ -46,6 +46,13 @@ ggplot(memory, aes(x = Group, y = Score)) +
   theme_classic()
 
 
+str(table_data)
+'data.frame':	8 obs. of  3 variables:
+ $ Negative: num  70 82 90 92 85 88 85 70
+ $ Positive: num  70 85 65 78 71 74 85 70
+ $ Neutral : num  65 64 63 75 55 72 NA NA
+
+
 summary(memory)
 Score            Group  
  Min.   :55.00   Negative:6  
