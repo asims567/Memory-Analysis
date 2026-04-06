@@ -11,3 +11,8 @@ A social psychologist wanted to determine whether there are differences in memor
 | 85       | 55      | 71       |
 | 88       | 72      | 74       |
 | 85       |         | 70       |
+
+
+We will analyze this data set using ANOVA to determine whether there are differences in average memory scores across negative, positive, and neutral events.
+
+This dataset and question were provided by the University of Ottawa Statistics Course; **HSS 2381: Quantitative Methods for Continuous Variables**
